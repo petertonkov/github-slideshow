@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hello world. Ventsi and Angel are faggots.
+Meeeemzzzz 24/7
 Use the left arrow to go back.
